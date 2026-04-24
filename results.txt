@@ -1,0 +1,7 @@
+?? 5-KATLI CV SONUÄLARI 
+ 
+SVM: 0.97 Ò 0.03 
+RF: 0.96 Ò 0.02 
+VQC: 0.81 Ò 0.00 
+ 
+? Tamamlandç. 
